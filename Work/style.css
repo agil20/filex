@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+.About {
+
+margin-left: 280PX;
+text-align: center;
+
+
+}
+.main{
+
+    text-align: center;
+    display: flex;
+    flex-wrap: nowrap;
+   
+}
+.Shipping{
+
+
+
+    flex-wrap: nowrap;
+
+
+}
+.button button  {
+
+    background-color: chocolate;
+    text-align: center;
+
+}
+.button {
+
+    text-align: center;
+
+}

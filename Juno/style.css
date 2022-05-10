@@ -1,0 +1,74 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+body{
+background-color: coral;
+
+
+}
+.logo{
+
+    display: inline;
+}
+.logo img
+{
+width: 100px;
+height: 50px;
+
+
+}
+.main
+{ 
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+
+
+
+
+
+}
+.menu{
+    margin-left: 100px;
+     margin-top: -20px;
+}
+
+.menu ul li{
+    display: inline;
+    padding-left: 50px;
+}
+.menu ul li a{
+    width: 50px;
+    height: 50px;
+
+
+} 
+.social-link i {
+
+margin-right: 400px;
+
+
+}
+.About{
+     margin-top: 200px;
+    display: flex;
+    flex-wrap: nowrap;
+
+
+}
+.form{
+background-color: aliceblue;
+    width: 500px;
+    height: 200px;
+
+}
+.form form{
+
+
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
