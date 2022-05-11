@@ -16,19 +16,30 @@ text-align: center;
 
     text-align: center;
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
+    width: 1000px;
+    height: 660px;
+    display: flex;
+    margin: auto;
+  justify-content: space-around;
+
+
+
    
 }
 .Shipping{
-
-
-
-    flex-wrap: nowrap;
+   margin-top: auto;
+  text-align: center;
+ background-color: antiquewhite;
+  width: 300px;
+  height: 300px;
+ 
 
 
 }
 .button button  {
 
+    
     background-color: chocolate;
     text-align: center;
 
